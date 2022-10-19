@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shilpaforu
-- 👀 I’m interested in coding, perticularly Web development projects
-- 🌱 I’m currently learning Javascript and other related frameworks
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m a freelancer in coding, I undertake Web development projects
+- 🌱 My skillset involves HTML, CSS, ReactJS, NodeJS, MongoDB
+- 💞️ I’m looking for collaborations.
 - 📫 you can reach me on shilparamanaik@gmail.com
 
 <!---
